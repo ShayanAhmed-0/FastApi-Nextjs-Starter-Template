@@ -16,6 +16,10 @@ pip install uvicorn
 pip install httpie
 ```
 
+### Also
+```bash
+npm install
+```
 To run the development server:
 
 ```bash
