@@ -9,7 +9,7 @@ conda create --name <name> python=<py version>
 conda create --name fast-next python=3.11 
 ```
 
-# Then
+### Then
 ```bash
 pip install fastapi
 pip install uvicorn
@@ -30,5 +30,5 @@ bun dev
 This will concurrently Start both Fast Api and nextjs 
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to see Frontend (NEXTJS)
-# And
+### And
 Open [http://localhost:3000/api/status](http://localhost:3000/api/status) in your browser to see Backend Status(FASTAPI) 
